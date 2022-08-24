@@ -1,4 +1,4 @@
-# Nike Landing Page using React.JS + Vite + CSS
+# Nike Landing Page using React.jS + Vite + CSS
 
 ![Nike](https://github.com/jadibikin/nike-lp-react/blob/master/src/assets/thumbnails.png)
 
